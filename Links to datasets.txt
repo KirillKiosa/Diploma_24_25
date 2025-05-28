@@ -1,0 +1,3 @@
+Agriadapt: https://gitlab.fri.uni-lj.si/lrk/agriadapt/-/tree/main/segmentation/data/geok?ref_type=heads
+Chicory plant: https://universe.roboflow.com/chicory-crop-weeds-5m7vo/weed-detection-by-uav-416a/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+Tobacco: https://data.mendeley.com/datasets/5dpc5gbgpz/2
